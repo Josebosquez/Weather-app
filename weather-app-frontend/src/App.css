@@ -1,0 +1,60 @@
+    .middle {
+        display: flex;
+    }
+    
+    .right {
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 50%;
+        border: 1px solid black;
+    }
+    
+    .left {
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid black;
+        width: 50%;
+        flex-direction: column;
+    }
+    
+    .searchO {
+        justify-content: safe;
+    }
+    
+    #inputbox {
+        margin-bottom: 30px;
+    }
+    
+    .results {
+        height: 40%
+    }
+    
+    #button,
+    #inputbox {
+        height: 20px
+    }
+    
+    .h1 {
+        margin-top: -200px;
+    }
+    
+    .current,
+    .current1 {
+        font-size: 20px;
+        margin: 5px
+    }
+    
+    .deletebutton {
+        background-color: lightblue;
+        margin-left: 10px;
+    }
+    
+    .items {
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-right: 5px;
+    }
