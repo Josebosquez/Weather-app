@@ -127,7 +127,7 @@ export class App extends Component {
   render() {
     //console.log(this.state);
     return (
-      <div style={{ textAlign: "center", marginTop: "8%" }}>
+      <div className='page' style={{ textAlign: "center", marginTop: "8%" }}>
         <Header />
 
         <div className='middle'>

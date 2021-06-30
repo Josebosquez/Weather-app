@@ -1,11 +1,11 @@
 .title {
     color: black;
-    font-size: 100px;
-    height: 150px;
-    border: 1px solid black;
+    margin-top: -150px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 80px;
 }
 
 @media screen and (max-width: 1300px) {
